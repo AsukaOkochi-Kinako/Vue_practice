@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    color: #39495C;
+}
+
+#message1 {
+    font-size: 3rem;
+    display: inline;
+    border-bottom: 1rem solid #64B587;
+}
+
+#message2 {
+    margin: 2rem auto;
+}
